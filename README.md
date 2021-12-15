@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-*Hello!!
-Hello! My name is Brandon! I am currently sophomore studying Software Engineering.
-* 🔭 I’m currently working on: 100 days of code using Python 🐍.
+Hello! My name is Brandon! I am currently a sophomore studying Software Engineering at Tec de Monterrey, Campus Guadalajara.
+* 💻 I’m currently working on: 100 days of code using Python 🐍.
 * 🌱 I’m currently learning: Web Develepment focusing on React.
+* 📰 Available to internship or work
 * 📫 How to reach me:
 * 📧 magana.brandon12@outlook.com
-* 📞 +52 341 198 0127
