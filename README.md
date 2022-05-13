@@ -6,3 +6,5 @@ Hello! My name is Brandon! I am currently a sophomore studying Software Engineer
 * 📰 Available to work or internship
 * 📫 How to reach me:
 * 📧 magana.brandon12@outlook.com
+* 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandonMagana&count_private=true&theme=onedark)
