@@ -8,9 +8,6 @@ Hello! My name is Brandon! I am currently a junior Software Engineering student 
 <table align="center">
 <thead>
 <tr>
-<th style="text-align:center"><img src="https://komarev.com/ghpvc/?username=BrandonMagana"></th>
-</tr>
-<tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMagana&theme=radical"></th>
 </tr>
 <tr>
