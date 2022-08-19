@@ -6,14 +6,10 @@ Hello! My name is Brandon! I am currently a junior Software Engineering student 
 * 📧 magana.brandon12@outlook.com
 
 <table align="center">
-<thead>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMagana&theme=radical"></th>
-</tr>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=BrandonMagana&show_icons=true&theme=radical"></th>
-</tr>
-</thead>
+  <thead>
+    <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=BrandonMagana&show_icons=true&theme=radical"></th>
+    <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMagana&theme=radical"></th>
+  </thead>
 </table>
 
 ## Languages
