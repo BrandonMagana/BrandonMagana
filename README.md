@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hello! My name is Brandon! I am currently a junior Software Engineering student at Tec de Monterrey, Campus Guadalajara.
+My name is Brandon Magaña! I am a Software Engineering student at Tec de Monterrey, Campus Guadalajara. And these are some of my projects :)
 * 📰 Available to work or internship
 * 📫 How to reach me:
-* 📧 magana.brandon12@outlook.com
+* 📧 magana.brandonswe@gmail.com
 
 <table align="center">
   <thead>
