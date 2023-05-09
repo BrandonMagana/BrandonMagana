@@ -50,7 +50,7 @@ My name is Brandon Magaña! I am a Software Engineering student at Tec de Monter
 </div>
 
 ## Resume 📃
-<a target="_blank" href="/BrandonMagana.pdf ">[![My Resume!](https://img.shields.io/badge/Get%20My%20-Resume!-blue.svg)]([/BrandonMagana.pdf](https://github.com/BrandonMagana/BrandonMagana/blob/main/BrandonMagana.pdf)")</a>
+[![My Resume!](https://img.shields.io/badge/Get%20My%20-Resume!-blue.svg)](https://github.com/BrandonMagana/BrandonMagana/blob/main/BrandonMagana.pdf)
 
 ## Contact Me 📫
 <a href="https://www.linkedin.com/in/brandon-magana/">
