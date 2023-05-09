@@ -49,6 +49,9 @@ My name is Brandon Magaña! I am a Software Engineering student at Tec de Monter
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
+## Resume 📃
+<a target="_blank" href="/BrandonMagana.pdf">[![My Resume!](https://img.shields.io/badge/Get%20My%20-Resume!-blue.svg)](https://shields.io/)</a>
+
 ## Contact Me 📫
 <a href="https://www.linkedin.com/in/brandon-magana/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
