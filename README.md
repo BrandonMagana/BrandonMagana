@@ -7,7 +7,7 @@ My name is Brandon Magaña! I am a Software Engineering student at Tec de Monter
 
 <table align="center">
   <thead>
-    <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=BrandonMagana&show_icons=true&theme=radical"></th>
+    <th style="text-align:center"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BrandonMagana&show_icons=true&include_all_commits=true&theme=radical" alt="My github stats" align="left" /></th>
     <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMagana&theme=radical"></th>
   </thead>
 </table>
